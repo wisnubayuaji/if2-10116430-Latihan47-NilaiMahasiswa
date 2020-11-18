@@ -63,7 +63,7 @@
 											"top": 23,
 											"width": 276.73876953125,
 											"height": 13,
-											"text": "PBOulang10116430Latihan47NilaiMahasiswa"
+											"text": "IF210116430Latihan47NilaiMahasiswa"
 										},
 										{
 											"_type": "LabelView",
@@ -954,7 +954,7 @@
 													"_parent": {
 														"$ref": "AAAAAAFuF/W7ie3blRE="
 													},
-													"name": "PBOulang10116430Latihan47NilaiMahasiswa",
+													"name": "IF210116430Latihan47NilaiMahasiswa",
 													"documentation": "To change this license header, choose License Headers in Project Properties.\nTo change this template file, choose Tools | Templates\nand open the template in the editor.\n@author\nNAMA     : Wisnu Bayu Aji\nKELAS    : PBO-Ulang\nNIM      : 10116430\nDeskripsi Program : Program ini berisi program yang bertujuan untuk\nmencari index nilai mahasiswa",
 													"operations": [
 														{
@@ -1068,7 +1068,7 @@
 																	"font": "Arial;13;0",
 																	"left": 20,
 																	"top": 20,
-																	"width": 106.09716796875,
+																	"width": 98.841796875,
 																	"height": 25,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAFuF/XBJu9trhk="
@@ -1462,7 +1462,7 @@
 																	"font": "Arial;13;0",
 																	"left": 148.841796875,
 																	"top": 20,
-																	"width": 286.73876953125,
+																	"width": 264.99169921875,
 																	"height": 25,
 																	"stereotypeLabel": {
 																		"$ref": "AAAAAAFuF/XBKu93z+c="
